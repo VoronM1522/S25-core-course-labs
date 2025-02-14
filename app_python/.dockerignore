@@ -1,4 +1,0 @@
-*.md
-Dockerfile
-.dockerignore
-unittests.py
